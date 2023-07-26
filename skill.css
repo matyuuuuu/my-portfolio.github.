@@ -1,0 +1,45 @@
+/* skill.css */
+
+/* Add general styling for the skill progress section */
+.skill-progress {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+/* Style for each skill entry */
+.skill {
+    margin-bottom: 10px;
+}
+
+.skill p {
+    margin: 0;
+}
+
+/* Styling for the progress bar */
+.progress-bar {
+    width: 100%;
+    background-color: #ddd;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background-color: #4CAF50;
+}
+
+.skill {
+   color: white;
+   font-weight: bold;
+   font-size: 2vh;
+   margin-bottom: 10px;
+}
+
+.skill-font {
+    color: white;
+   font-weight: bold;
+   font-size: 3vh;
+   margin-bottom: 20px;
+   text-align: center;
+}
